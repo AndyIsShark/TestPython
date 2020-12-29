@@ -42,3 +42,5 @@ if __name__ == '__main__':
     
     print("Aaaaaaaa")
 
+    print("aaaaa")
+    print("ssssssssssss")
